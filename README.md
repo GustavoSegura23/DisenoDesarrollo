@@ -1,2 +1,2 @@
-# PrograBasica
-Reposito para el curso Programacion Basica
+# DisenoDesarrollo
+Reposito para el curso DisenoDesarrollo
