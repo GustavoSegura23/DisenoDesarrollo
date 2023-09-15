@@ -1,2 +1,2 @@
 # DisenoDesarrollo
-Reposito para el curso Diseno y Desarrollo
+Reposito para el curso Diseno y Desarrollo  
